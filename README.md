@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></img>
 ![Mindong's github stats](https://github-readme-stats.vercel.app/api?username=Mindong&show_icons=true&theme=tokyonight)
 
 
