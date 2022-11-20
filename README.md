@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
-  <head></head>
-<body>
-<a>
+<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 ![Mindong's github stats](https://github-readme-stats.vercel.app/api?username=Mindong&show_icons=true&theme=tokyonight)
-</a>
-</body>
-</html>
+
 
